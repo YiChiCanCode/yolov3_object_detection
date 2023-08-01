@@ -1,8 +1,6 @@
 **YOLOv3 Object Detection**
 
 This repository contains code for YOLOv3-based object detection, which is an advanced deep learning model capable of detecting and localizing multiple objects in images.
-![Alt Text](Screenshot 2023-08-01 at 3.16.36 PM.png)
-![Screenshot](Screenshot 2023-08-01 at 3.16.36 PM.png)
 
 
 ## Table of Contents
@@ -40,10 +38,6 @@ cd yolov3_object_detection
 ```
 
 2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 The program will capture images using cv2 and apply object detection algorithm on the frames.
