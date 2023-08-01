@@ -2,6 +2,7 @@
 
 This repository contains code for YOLOv3-based object detection, which is an advanced deep learning model capable of detecting and localizing multiple objects in images.
 ![Alt Text](Screenshot 2023-08-01 at 3.16.36 PM.png)
+![Screenshot](Screenshot 2023-08-01 at 3.16.36 PM.png)
 
 
 ## Table of Contents
